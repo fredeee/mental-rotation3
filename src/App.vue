@@ -71,7 +71,7 @@
       }
 
     -->
-    <DebugResultsScreen />
+    <SubmitResultsScreen />
   </Experiment>
 </template>
 
