@@ -92,7 +92,7 @@ export default {
       training_trials: _.shuffle(training_trials),
       imageSelection: _.shuffle(imageSelection),
       sliderRating,
-      keys: _.shuffle(['same', 'differently']),
+      keys: _.shuffle(['same', 'different']),
 
       // Expose lodash.range to template above
       range: _.range
